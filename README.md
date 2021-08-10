@@ -1,6 +1,6 @@
 # african-countries
 
-A [re-frame](https://github.com/day8/re-frame) application designed to test your African geographic knowledge! A longtime family favorite game brought to the interwebs, this app allows you to compete with friends and family to see who is the real King of the Congo! If two or more players are equally as impressive (or dismal), battle it out in a tie break, where we go to the next level of demographic trivia, and ask about population.
+A [re-frame](https://github.com/day8/re-frame) application designed to test your African geographic knowledge! A longtime favorite of my own family brought to the interwebs, this game allows you to compete with friends and family to see who is the real King of the Congo! If two or more players are equally as impressive (or dismal), battle it out in a tie break, where we go to the next level of demographic trivia, and ask about population.
 
 This app is almost completely distributed, meaning almost all state is stored remotely. This includes input fields, question content, scores and more...
 
